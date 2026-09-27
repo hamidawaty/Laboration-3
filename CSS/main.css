@@ -143,11 +143,10 @@ a {
   text-decoration: none;
   border-radius: 5px;
   margin: 20px 0;
-  width:fit-content;
+  width: fit-content;
 }
 .visit-button-hero:hover {
   padding: 20px 48px;
- 
   transition: 0.5s;
 }
 .naturen {
@@ -236,7 +235,7 @@ a {
 }
 .visit-button:hover {
   padding: 20px 48px;
- 
+
   transition: 0.5s;
 }
 @media (min-width: 768px) {
@@ -292,18 +291,17 @@ footer {
     justify-content: space-between;
   }
   .contact-footer ul {
-  margin-right:90px;
-}
+    margin-right: 90px;
+  }
 }
 .contact-footer {
   display: flex;
   color: #ffff;
 }
 
-
 .contact-footer a {
   color: #ffff;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 .contact-footer ul {
   list-style: none;
