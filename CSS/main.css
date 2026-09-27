@@ -143,6 +143,7 @@ a {
   text-decoration: none;
   border-radius: 5px;
   margin: 20px 0;
+  width:fit-content;
 }
 .visit-button-hero:hover {
   padding: 20px 48px;
