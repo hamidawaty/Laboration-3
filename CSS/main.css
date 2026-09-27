@@ -232,10 +232,10 @@ a {
   font-size: 18px;
   text-decoration: none;
   border-radius: 5px;
+  width: fit-content;
 }
 .visit-button:hover {
   padding: 20px 48px;
-
   transition: 0.5s;
 }
 @media (min-width: 768px) {
